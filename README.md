@@ -21,3 +21,11 @@
 | :---: | :---: | :---: | :---: |
 | 19120039 | Phan Minh Triết | COLLECTING_DATA | 13/1/2022 |
 | 19120138 | Trần Đức Thuỵ | EXPLORING_DATA | 13/1/2022 |
+
+4. Thông tin các File trong Project:
+
+| Tên File | Mô tả chi tiết |
+| :---: | :---: |
+| COLLECTING_DATA | File chứa gồm: Dữ liệu thu thập được từ 2 cách API và parseHTML và File Notebook Collect Data đã được tổng hợp thành File hoàn chỉnh |
+| EXPLORING_DATA | File chứa gồm: Dữ liệu thu thập được cách và File Notebook Exploring Data đã được tổng hợp thành File hoàn chỉnh |
+| RAW_PROJECT | File chứa gồm: Những File Notebook mỗi phần (Part) của công việc đã phân công cho mỗi thành viên nhóm |
