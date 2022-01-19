@@ -18,7 +18,8 @@ Cách làm và ý tưởng của nhóm hướng tới quy trình của một Dat
 | 19120138 | Trần Đức Thuỵ | https://github.com/Bakerville |
 
 
-2. Bảng phân công:
+2. Bảng phân công tóm tắt:
+[https://docs.google.com/spreadsheets/d/1jYLQwqzjDucZ5_HRAlrCnOCVj_2R_B0gLd_jKQhLK4Q/edit?usp=sharing](Bảng Phân công chi tiết.)
 
 | MSSV | Họ và Tên | Công việc | Ngày hoàn thành |
 | :---: | :---: | :---: | :---: |
