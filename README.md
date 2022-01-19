@@ -22,8 +22,8 @@ Cách làm và ý tưởng của nhóm hướng tới quy trình của một Dat
 
 | MSSV | Họ và Tên | Công việc | Ngày hoàn thành |
 | :---: | :---: | :---: | :---: |
-| 19120039 | Phan Minh Triết | Part 1: API, Part 2: Users, Playlists | 13/1/2022 |
-| 19120138 | Trần Đức Thuỵ | Part 1: ParseHTML, Part 2: Tracks, Playlists | 13/1/2022 |
+| 19120039 | Phan Minh Triết | Part 1: API, Part 2: Users, Playlists | 14/1/2022 |
+| 19120138 | Trần Đức Thuỵ | Part 1: ParseHTML, Part 2: Tracks, Playlists | 15/1/2022 |
 
 3. Tổng hợp Project:
 
