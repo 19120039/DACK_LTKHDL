@@ -1,15 +1,6 @@
 # DACK_LTKHDL
 Đồ án Cuối Kì môn LTKHDL
 
-Cách làm và ý tưởng của nhóm hướng tới quy trình của một Data Scientist:
-- Xác định các vấn đề phân tích liên quan đến dữ liệu mang đến cơ hội lớn cho tổ chức.
-- Thu thập các tập dữ liệu lớn có cấu trúc và phi cấu trúc từ nhiều nguồn khác nhau.
-- Xác định chính xác tập dữ liệu và các biến mà chúng ta cần
-- Làm sạch và loại bỏ dữ liệu lỗi để đảm bảo tính đầy đủ và chính xác của dữ liệu
-- Phân tích dữ liệu để khám phá các mô hình và xu hướng ẩn sau đó
-- Giải thích dữ liệu để tìm ra các giải pháp cũng như các cơ hội, và đưa ra quyết định từ đó.
-
-
 1. Thông tin nhóm:
 
 | MSSV | Họ và Tên | Tài khoản Github |
